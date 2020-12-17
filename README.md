@@ -2,7 +2,7 @@
 
 #### LINKS
 
-1. This project's page: [https://kmjax.surge.sh/hw/2020-12-01_php/](https://kmjax.surge.sh/hw/2020-12-01_php/)
+1. This project's LIVE page: [https://www.kmcode.com/kmjax/basic-php/](https://www.kmcode.com/kmjax/basic-php/)
 1. Menu of all projects: [https://kmjax.surge.sh](https://kmjax.surge.sh)
 
 #### DESCRIPTION
